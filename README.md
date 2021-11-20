@@ -10,3 +10,6 @@ I Developed this Travelling website using PHP, MYSQL, CSS and HTML
 
 
 ![Travel website - Google Chrome 20-11-2021 14_44_39](https://user-images.githubusercontent.com/94681704/142721287-a7a5dc75-c2e7-4c07-914d-2aa055c50600.png)
+
+
+![Travel website - Google Chrome 20-11-2021 14_45_29](https://user-images.githubusercontent.com/94681704/142721314-6b366272-949c-4dc1-8d35-6dff058e72ad.png)
